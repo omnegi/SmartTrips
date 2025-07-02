@@ -1,19 +1,15 @@
                   
 <h1 align="center" style="font-weight: bold;">Full-Stack Trip Planner Web App</h1>
 
-<p align="center">
-<a href="#tech">Technologies |</a>
-<a href="#features">Features |</a>
-<a href="#layout">Layout |</a>
-<a href="#pre">Prerequisites</a>
+
  
 </p>
 
 <p align="center">A full-stack web application that helps users plan their trips by providing AI-powered recommendations for travel itineraries, places to visit, and hotels. This app integrates Google Generative AI for dynamic travel planning, Firebase for data storage, and Google Places API for fetching detailed information about places and hotels. </p>
 
 
-<h3 align="center">
-<a href="" target="_blank">📱 Visit this Project</a>
+<h3 align="center" >
+<a href="" target="_blank">📱 SmartTrip</a>
 </h3> <br>
 
 <h2 id="technologies">💻 Technologies</h2>
