@@ -9,7 +9,7 @@
 
 
 <h3 align="center" >
-<a href="" target="_blank">📱 SmartTrip</a>
+<a href="https://smart-trips-brown.vercel.app/" target="_blank">📱 SmartTrip</a>
 </h3> <br>
 
 <h2 id="technologies">💻 Technologies</h2>

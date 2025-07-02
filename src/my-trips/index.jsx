@@ -2,7 +2,11 @@ import { collection } from 'firebase/firestore';
 import React, { useEffect, useState } from 'react'
 import { useNavigation } from 'react-router-dom';
 import { query, where, getDocs } from "firebase/firestore";
+<<<<<<< HEAD
 import { db } from '../service/firebaseConfig';
+=======
+import { db } from '@/service/FirebaseConfig';
+>>>>>>> 1bc8f21b5dd96e0f69502c64d2e5aecd4a028da9
 import UserTripCardItem from './components/UserTripCardItem';
 
 function MyTrips() {
