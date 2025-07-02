@@ -40,7 +40,7 @@
 
 <p>
 Home Page:
-<img src="" alt="">
+<img src="https://github.com/omnegi/SmartTrips/blob/422e9c7cee7f91bb624d5bcbd9ef25ed56bea76e/public/Home.png" alt="">
 
 </p>
  
